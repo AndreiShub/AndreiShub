@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   	🐸 🐸 🐸 CURRENT MOOD 🐸	🐸 🐸
 </h1>
 <div id="header" align="center">
